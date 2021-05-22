@@ -1,6 +1,6 @@
 ## Intégration de Webpack sur un projet Symfony et l'ajout de la nouvelle version 5 de bootstrap sur le projet
 
-![symfony - bootstrap 5 - Webpack](https://photos.app.goo.gl/m8h1jZ4LLZq7XYUj9)
+![symfony - bootstrap 5 - Webpack](articles_webpack.jpg)
 <br>
 
 1 - Installer **Encore** : 
