@@ -9,7 +9,7 @@
 
 <br>
 
-1 - Installer **Encore** : 
+## 1 - Installer **Encore** : 
 
 <br>
 
@@ -21,12 +21,13 @@ Encore s'inspire de Webpacker et Mix, mais reste dans l'esprit de Webpack : il u
 
 <br>
 
-2 - Installer les dépendances que nous avons sur notre package.json : 
+## 2 - Installer les dépendances que nous avons sur notre package.json : 
 
 - `npm install`
 
 <br>
-3 - Sur /assets nous allons voir de nouveaux fichiers : comme /styles/app.css et  app.js
+
+## 3 - Sur /assets nous allons voir de nouveaux fichiers : comme /styles/app.css et  app.js
 
 <br>
 
@@ -34,7 +35,7 @@ Encore s'inspire de Webpacker et Mix, mais reste dans l'esprit de Webpack : il u
 
 <br>
 
-4 - Installation de l'outil de compilation SASS et modification de base.html.twig
+## 4 - Installation de l'outil de compilation SASS et modification de base.html.twig
 
 <br>
 
@@ -55,7 +56,7 @@ Encore s'inspire de Webpacker et Mix, mais reste dans l'esprit de Webpack : il u
 
 <br>
 
-5 - Installation des requirements nécessaires pour la compilation de bootstrap
+## 5 - Installation des requirements nécessaires pour la compilation de bootstrap
 
 <br>
 
@@ -75,7 +76,7 @@ module.exports = {
 
 <br>
 
-6 - Installation de bootstrap : 
+## 6 - Installation de bootstrap : 
 
 <br>
 
