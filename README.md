@@ -1,4 +1,4 @@
-# Intégration de Webpack sur un projet Symfony et l'ajout de la nouvelle version 5 de bootstrap sur le projet
+# Intégration de Webpack sur  Symfony et l'ajout de la nouvelle version 5 de bootstrap sur le projet
 
 ![symfony - bootstrap 5 - Webpack](articles_webpack.jpg)
 <br>
