@@ -110,7 +110,7 @@ import { Tooltip, Toast, Popover } from 'bootstrap';
 
 > ET SURTOUT n'oubliez pas à chaque fois que vous ajouter du style scss ou du js, faites un compilation avec `npm run build`  vous allez vous rendre compte d'un répertoire build va se créer sur public pour contenir tout le style css et js qu'on a compilé et dont nous avons besoin
 
-> ![Initialisation d'un projet symfony (version 5) avec l'intégration de webpack et l'ajout de bootstrap 5](https://github.com/codebysaadbouh/symfony_webpack_bootstrap-initialization)
+> [Initialisation d'un projet symfony (version 5) avec l'intégration de webpack et l'ajout de bootstrap 5](https://github.com/codebysaadbouh/symfony_webpack_bootstrap-initialization)
 
 <br>
 <br>
