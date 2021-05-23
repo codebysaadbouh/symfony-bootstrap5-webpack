@@ -88,8 +88,8 @@ module.exports = {
 import { Tooltip, Toast, Popover } from 'bootstrap';
 ```
 
-> Nous allons créer sur assets/styles/ un fichier **costum.scss** (Pour faire de la customisation (overriding) sur le bootstrap par exemple ) 
-> Dans le fichier **app.scss ** on va mettre les deux lignes d'importations à prendre en compte :
+> Nous allons créer sur assets/styles/ un fichier **custom.scss** (Pour faire de la customisation (overriding) sur le bootstrap par exemple ) 
+> Dans le fichier **app.scss** on va mettre les deux lignes d'importations à prendre en compte :
 
 ```
 @import "custom";
