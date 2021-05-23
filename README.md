@@ -108,7 +108,7 @@ import { Tooltip, Toast, Popover } from 'bootstrap';
 
 > Pour la costumisation je vous conseille de voir [la documentation de bootstrap](https://getbootstrap.com/docs/5.0/customize/sass/) qui est assez explicite.
 
-> ET SURTOUT n'oubliez pas à chaque fois que vous ajouter du style scss ou du js, faites un compilation avec `npm run build`  vous allez vous rendre compte d'un répertoire build va se créer pour contenir tout le style css et js qu'on a compilé et dont nous avons besoin
+> ET SURTOUT n'oubliez pas à chaque fois que vous ajouter du style scss ou du js, faites un compilation avec `npm run build`  vous allez vous rendre compte d'un répertoire build va se créer sur public pour contenir tout le style css et js qu'on a compilé et dont nous avons besoin
 
 <br>
 <br>
